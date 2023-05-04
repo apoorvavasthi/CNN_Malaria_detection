@@ -1,2 +1,2 @@
 # CNN_Malaria_detection
-A CNN Model to classify between malaria infected cell and Uninfected cell.
+A CNN Model which will classify malaria infected cells and Uninfected cells.
